@@ -1,0 +1,1 @@
+/home/Myrcore/os/target/riscv64gc-unknown-none-elf/debug/os: /home/Myrcore/os/src/console.rs /home/Myrcore/os/src/entry.asm /home/Myrcore/os/src/lang_items.rs /home/Myrcore/os/src/main.rs /home/Myrcore/os/src/sbi.rs
